@@ -1,0 +1,34 @@
+table{
+    color:black;
+    text-align:center;
+    font-size:14px;
+    font-weight:bold;
+    margin-left:150px;
+    width:980px;
+    height:200px;
+    border-color:darkcyan;
+}
+
+._1234{
+    background-color:lightseagreen;
+}
+
+._5678{
+    background-color:lightskyblue;
+}
+
+.course{
+    background-color:lightsteelblue;
+}
+
+
+.head{
+    background-color:antiquewhite ;
+}
+
+.content{
+    text-overflow :ellipsis ;
+    overflow:hidden;
+    white-space:nowrap;
+    width:95px;
+}
